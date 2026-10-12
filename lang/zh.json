@@ -1,0 +1,26 @@
+// zh
+{
+  "navPapers": "论文", "navAbout": "关于我", "navProjects": "项目", "navContact": "联系",
+  "eyebrow": "个人网站",
+  "headline": "我是<br>ChecksMc。",
+  "lead": "我是巴伐利亚州 Q12 年级的学生，几乎对一切都感兴趣，包括科学、艺术、音乐、语言学与词源学。目前我尤其关注计算机科学，以及把电子游戏作为表达情感与思想的媒介。",
+  "currentlyLabel": "目前",
+  "currently": "我目前在做第 45 届 BWINF 第一轮和 W-Seminar。",
+  "papersLabel": "论文", "papersHeading": "我研究并写过的一些内容。",
+  "paperScience": "10 年级：Amplidar，为期十周的学校项目。",
+  "paperDoku": "第 44 届 BWINF 第二轮第 2 题的文档。",
+  "paperQubits": "7 年级：量子比特入门。",
+  "paperGame": "8 年级：博弈论入门。",
+  "openPdf": "打开 PDF ↗",
+  "aboutLabel": "关于我", "aboutHeading": "总有新东西等着被发现。",
+  "aboutTextOne": "我是巴伐利亚州 Q12 年级的学生，几乎对一切都感兴趣，包括科学、艺术、音乐、语言学与词源学，以及体育。目前我尤其关注计算机科学，以及把电子游戏作为表达情感与思想的媒介。",
+  "aboutTextTwo": "我喜欢发现不同学科之间的联系，并顺着问题一路探索下去。",
+  "factAge": "年龄", "factSchool": "学年", "factInterests": "兴趣", "factLanguages": "语言",
+  "factInterestsValue": "科学、艺术、音乐、语言、体育",
+  "projectsLabel": "当前项目", "projectsHeading": "看看我现在正在做的事情。",
+  "featuredLabel": "已选项目", "projectStatus": "状态", "projectDetails": "详情", "projectRepository": "代码仓库",
+  "prevPage": "上一页", "nextPage": "下一页", "pageInfo": "第 {page} / {total} 页",
+  "noProjects": "暂无项目。", "fallbackNote": "暂无此语言版本，显示 {lang} 版本。",
+  "themeDark": "深色模式", "themeLight": "浅色模式",
+  "contactHeading": "有问题或想法？<br>来聊聊吧。"
+}

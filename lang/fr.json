@@ -1,0 +1,26 @@
+// fr
+{
+  "navPapers": "Travaux", "navAbout": "À propos", "navProjects": "Projets", "navContact": "Contact",
+  "eyebrow": "Site personnel",
+  "headline": "Voici<br>ChecksMc.",
+  "lead": "Je suis élève en Q12 en Bavière et je m'intéresse à presque tout : sciences, arts, musique, linguistique et étymologie. En ce moment, je m'intéresse surtout à l'informatique et aux jeux vidéo comme moyen d'exprimer des émotions et des idées. ",
+  "currentlyLabel": "En ce moment",
+  "currently": "Je travaille actuellement sur le BWINF, 45e édition, 1er tour, et sur le W-Seminar.",
+  "papersLabel": "Travaux", "papersHeading": "Quelques sujets que j'ai étudiés et sur lesquels j'ai écrit.",
+  "paperScience": "10e classe : Amplidar, dans le cadre d'un projet scolaire de dix semaines.",
+  "paperDoku": "Documentation du 44e BWINF, 2e tour, exercice 2.",
+  "paperQubits": "7e classe : introduction aux qubits.",
+  "paperGame": "8e classe : introduction à la théorie des jeux.",
+  "openPdf": "Ouvrir le PDF ↗",
+  "aboutLabel": "Un peu à propos de moi", "aboutHeading": "Il y a toujours quelque chose de nouveau à découvrir.",
+  "aboutTextOne": "Je suis élève en Q12 en Bavière et je m'intéresse à presque tout : sciences, arts, musique, linguistique et étymologie, sport. En ce moment, je m'intéresse surtout à l'informatique et aux jeux vidéo comme moyen d'exprimer des émotions et des idées.",
+  "aboutTextTwo": "J'aime découvrir des liens entre différents domaines et suivre les questions là où elles me mènent.",
+  "factAge": "Âge", "factSchool": "Année scolaire", "factInterests": "Centres d'intérêt", "factLanguages": "Langues",
+  "factInterestsValue": "Sciences, arts, musique, langues, sport",
+  "projectsLabel": "Projets en cours", "projectsHeading": "Un aperçu de ce sur quoi je travaille en ce moment.",
+  "featuredLabel": "Projet sélectionné", "projectStatus": "Statut", "projectDetails": "Détails", "projectRepository": "Dépôt",
+  "prevPage": "Précédent", "nextPage": "Suivant", "pageInfo": "Page {page} sur {total}",
+  "noProjects": "Aucun projet pour l'instant.", "fallbackNote": "Pas encore disponible dans cette langue, affichage en {lang}.",
+  "themeDark": "Mode sombre", "themeLight": "Mode clair",
+  "contactHeading": "Une question ou une idée ?<br>Parlons-en."
+}
