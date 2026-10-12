@@ -1,0 +1,9 @@
+// de
+{
+  "title": "Hack The Web, Kontributionen",
+  "type": "Anfänger",
+  "status": "Übersetzung von Worms",
+  "details": "https://hack.arrrg.de",
+  "description": "Kontributionen zu Hack The Web, einer online Bildungs- sowie CTF-Plattform, die von der Hackerszene in Deutschland entwickelt wurde.",
+  "repository": "https://github.com/Entkenntnis/htw"
+}
