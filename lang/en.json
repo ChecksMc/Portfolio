@@ -1,0 +1,26 @@
+// en
+{
+  "navPapers": "Papers", "navAbout": "About", "navProjects": "Projects", "navContact": "Contact",
+  "eyebrow": "Personal website",
+  "headline": "This is<br>ChecksMc.",
+  "lead": "I am a student in Q12 in Bavaria and interested in almost anything, including science, arts, music, linguistics and etymology. At the moment, I am especially interested in computer science and video games as a medium for emotions and ideas. ",
+  "currentlyLabel": "Currently",
+  "currently": "I am currently working on BWINF Round 45, Round 1, and W-Seminar.",
+  "papersLabel": "Papers", "papersHeading": "Some things I have researched and written about.",
+  "paperScience": "Grade 10: Amplidar, as part of a ten-week school project.",
+  "paperDoku": "Documentation for the 44th BWINF Round 2, Task 2.",
+  "paperQubits": "Grade 7: Introduction to qubits.",
+  "paperGame": "Grade 8: Introduction to game theory.",
+  "openPdf": "Open PDF ↗",
+  "aboutLabel": "A little about me", "aboutHeading": "There is always something new to discover.",
+  "aboutTextOne": "I am a student in Q12 in Bavaria and interested in almost anything, including science, arts, music, linguistics and etymology, and sports. At the moment, I am especially interested in computer science and video games as a medium for emotions and ideas.",
+  "aboutTextTwo": "I like discovering connections between different subjects and following questions wherever they lead.",
+  "factAge": "Age", "factSchool": "School year", "factInterests": "Interests", "factLanguages": "Languages",
+  "factInterestsValue": "Science, arts, music, languages, sports",
+  "projectsLabel": "Current projects", "projectsHeading": "A closer look at what I am working on right now.",
+  "featuredLabel": "Selected project", "projectStatus": "Status", "projectDetails": "Details", "projectRepository": "Repository",
+  "prevPage": "Previous", "nextPage": "Next", "pageInfo": "Page {page} of {total}",
+  "noProjects": "No projects yet.", "fallbackNote": "Not available in this language yet, showing {lang}.",
+  "themeDark": "Dark mode", "themeLight": "Light mode",
+  "contactHeading": "Have a question or an idea?<br>Let us talk."
+}

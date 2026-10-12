@@ -1,0 +1,26 @@
+// de
+{
+  "navPapers": "Arbeiten", "navAbout": "Über mich", "navProjects": "Projekte", "navContact": "Kontakt",
+  "eyebrow": "Persönliche Website",
+  "headline": "Das ist<br>ChecksMc.",
+  "lead": "Ich bin Schüler der Q12 in Bayern und interessiere mich für fast alles, unter anderem für Naturwissenschaften, Kunst, Musik, Linguistik und Etymologie. Vor allem interessiert mich zurzeit die Informatik und Videospiele als Medium der Emotionen und Gedanken. ",
+  "currentlyLabel": "Aktuell",
+  "currently": "Ich arbeite gerade am BWINF Runde 45, Runde 1, und am W-Seminar.",
+  "papersLabel": "Arbeiten", "papersHeading": "Einige Dinge, über die ich recherchiert und geschrieben habe.",
+  "paperScience": "10. Klasse: Amplidar, im Rahmen eines 10-wöchigen Schulprojekts.",
+  "paperDoku": "Dokumentation für den 44. BWINF, Runde 2, Aufgabe 2.",
+  "paperQubits": "7. Klasse: Einführung in Qubits.",
+  "paperGame": "8. Klasse: Einführung in die Spieltheorie.",
+  "openPdf": "PDF öffnen ↗",
+  "aboutLabel": "Ein bisschen über mich", "aboutHeading": "Es gibt immer etwas Neues zu entdecken.",
+  "aboutTextOne": "Ich bin Schüler der Q12 in Bayern und interessiere mich für fast alles, unter anderem für Naturwissenschaften, Kunst, Musik, Linguistik und Etymologie sowie Sport. Vor allem interessiert mich zurzeit die Informatik und Videospiele als Medium der Emotionen und Gedanken.",
+  "aboutTextTwo": "Ich entdecke gerne Verbindungen zwischen verschiedenen Themen und folge Fragen, wohin sie mich auch führen.",
+  "factAge": "Alter", "factSchool": "Schuljahr", "factInterests": "Interessen", "factLanguages": "Sprachen",
+  "factInterestsValue": "Naturwissenschaften, Kunst, Musik, Sprachen, Sport",
+  "projectsLabel": "Aktuelle Projekte", "projectsHeading": "Ein genauerer Blick auf das, woran ich gerade arbeite.",
+  "featuredLabel": "Ausgewähltes Projekt", "projectStatus": "Status", "projectDetails": "Details", "projectRepository": "Repository",
+  "prevPage": "Zurück", "nextPage": "Weiter", "pageInfo": "Seite {page} von {total}",
+  "noProjects": "Noch keine Projekte.", "fallbackNote": "In dieser Sprache noch nicht verfügbar, zeige {lang}.",
+  "themeDark": "Dunkelmodus", "themeLight": "Hellmodus",
+  "contactHeading": "Eine Frage oder eine Idee?<br>Schreib mir."
+}
