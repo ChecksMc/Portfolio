@@ -4,6 +4,6 @@
     "type": "Applet, Overlay",
     "status": "Prerelease",
     "details": "v0.1.0",
-    "description": "A simple cornernote overlay for Fedora KDE. It can either write into a new .md file or append into an existing one. Intended for quick notetaking in combination with Obsidian.",
+    "description": "A Python and GTK 3 desktop overlay for quick notes on Fedora KDE. It saves to new or existing Markdown files and integrates with an Obsidian vault; its appearance can be edited with a live preview.",
     "repository": "https://github.com/ChecksMc/Cornernote-for-Fedora-KDE"
 }

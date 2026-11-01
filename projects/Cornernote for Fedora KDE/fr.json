@@ -4,6 +4,6 @@
   "type": "Applet, superposition",
   "status": "Prerelease",
   "details": "v0.1.0",
-  "description": "Une simple fenêtre de notes superposée pour Fedora KDE. Elle peut écrire dans un nouveau fichier .md ou ajouter des notes à un fichier existant. Conçue pour prendre rapidement des notes avec Obsidian.",
+  "description": "Une fenêtre superposée pour Fedora KDE, créée avec Python et GTK 3 pour prendre des notes rapidement. Elle écrit dans des fichiers Markdown nouveaux ou existants, s'intègre à un coffre Obsidian et propose un éditeur de style avec aperçu en direct.",
   "repository": "https://github.com/ChecksMc/Cornernote-for-Fedora-KDE"
 }

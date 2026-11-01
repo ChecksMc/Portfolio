@@ -4,6 +4,6 @@
   "type": "小程序、悬浮层",
   "status": "Prerelease",
   "details": "v0.1.0",
-  "description": "一款适用于 Fedora KDE 的简易 Cornernote 悬浮层。可将笔记写入新的 .md 文件，或追加到现有文件中。适合与 Obsidian 搭配，快速记录笔记。",
+  "description": "一个使用 Python 和 GTK 3 构建的 Fedora KDE 桌面悬浮笔记工具。它可以写入新的或现有的 Markdown 文件，连接 Obsidian 笔记库，并通过样式编辑器实时预览外观。",
   "repository": "https://github.com/ChecksMc/Cornernote-for-Fedora-KDE"
 }
