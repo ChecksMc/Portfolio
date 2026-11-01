@@ -1,0 +1,9 @@
+// zh
+{
+  "title": "适用于 Fedora KDE 的 Cornernote",
+  "type": "小程序、悬浮层",
+  "status": "Prerelease",
+  "details": "v0.1.0",
+  "description": "一款适用于 Fedora KDE 的简易 Cornernote 悬浮层。可将笔记写入新的 .md 文件，或追加到现有文件中。适合与 Obsidian 搭配，快速记录笔记。",
+  "repository": "https://github.com/ChecksMc/Cornernote-for-Fedora-KDE"
+}

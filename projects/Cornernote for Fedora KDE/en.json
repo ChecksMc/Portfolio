@@ -1,0 +1,9 @@
+// en
+{
+    "title": "Cornernote for Fedora KDE",
+    "type": "Applet, Overlay",
+    "status": "Prerelease",
+    "details": "v0.1.0",
+    "description": "A simple cornernote overlay for Fedora KDE. It can either write into a new .md file or append into an existing one. Intended for quick notetaking in combination with Obsidian.",
+    "repository": "https://github.com/ChecksMc/Cornernote-for-Fedora-KDE"
+}

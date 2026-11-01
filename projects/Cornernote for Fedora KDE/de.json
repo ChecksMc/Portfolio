@@ -1,0 +1,9 @@
+// de
+{
+  "title": "Cornernote für Fedora KDE",
+  "type": "Applet, Overlay",
+  "status": "Prerelease",
+  "details": "v0.1.0",
+  "description": "Ein einfaches Cornernote-Overlay für Fedora KDE. Es kann Notizen entweder in eine neue .md-Datei schreiben oder an eine bestehende anhängen. Gedacht für schnelle Notizen in Verbindung mit Obsidian.",
+  "repository": "https://github.com/ChecksMc/Cornernote-for-Fedora-KDE"
+}
